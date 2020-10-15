@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<question type="multichoice">
+	<name>
+		<text>Quelle équipe a gagné la coupe du monde en 1998</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la bonne réponse ?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<answer fraction="100">
+		<text>La France</text>
+		<feedback>
+			<text>Bravo !</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>Le Brésil</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+	<answer fraction="0">
+		<text>L'Italie</text>
+		<feedback>
+			<text>Ooops!</text>
+		</feedback>
+	</answer>
+	<shuffleanswers>1</shuffleanswers>
+	<single>true</single>
+</question>
